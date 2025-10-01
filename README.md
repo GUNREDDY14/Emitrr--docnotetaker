@@ -26,7 +26,7 @@ The Physician Notetaker API is a FastAPI-based backend service that leverages me
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/GUNREDDY14/Emitrr--docnotetaker>
    cd Emitrr
    ```
 
